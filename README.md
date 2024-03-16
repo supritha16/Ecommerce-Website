@@ -4,10 +4,11 @@ Welcome to an e-commerce website using PHP and MySQL database.
 # Introduction: 
 Welcome to MyStore, an e-commerce website developed using PHP and MySQL database. MyStore offers a seamless shopping experience for users to browse, purchase, and manage their orders. This README file provides an overview of the website's features, installation guide, and usage instructions.
 <br>
+
 <img width="700" alt="Screenshot 2024-03-16 224113" src="https://github.com/supritha16/Ecommerce-Website/assets/99244765/e97bf73b-75d6-4ad7-b9b7-442a17abcd3b">
 
 <br>
-# User Features:
+__# Bold Heading 1__
 
 1.User Authentication: MyStore provides separate login forms for both users and administrators. Users can create an account, login, and securely access their profile information.
 <br>
